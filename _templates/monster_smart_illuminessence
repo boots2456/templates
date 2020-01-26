@@ -12,4 +12,11 @@ link2:
 
 Nearly identical to Merkury Innovations MI-EW003-999W LED Strip
 
+Listening for Tuya broadcast on UDP 6666
+Listening for encrypted Tuya broadcast on UDP 6667
+10.0.0.51 {"ip":"10.0.0.51","gwId":"ebf590621e6787a424qxdz","active":2,"ablilty":0,"encrypt":true,"productKey":"h3aka6lbaynnv6v5","version":"3.2"}
+WARNING: it appears this device does not use an ESP82xx and therefore cannot install ESP based firmware
+10.0.0.168 {"ip":"10.0.0.168","gwId":"60483835cc50e364df80","active":2,"ability":0,"mode":0,"encrypt":true,"productKey":"stZZtj0qAnjmxwAe","version":"3.3"}
+^C
+
 
